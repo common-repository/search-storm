@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#wss_search_options{
+	display: block;
+    font-family: arial,sans-serif,helvetica;
+    font-size: 14px !important;
+    margin-left: 2px;
+    width: 200px;
+}
+
+#wss_search_options_arg{
+	height: 23px;
+    width: 207px;
+}
+
+#wss_search_options_type{
+	height: 23px;
+    width: 207px;
+}
+
+#wss_search_options_prov{
+	height: 23px;
+    width: 207px;
+}
+
+#wss_search_options_loc{
+	height: 23px;
+    width: 207px;
+}
+
+.wss_search_storm_content{
+
+
+}
+
+.ss_content_label{
+
+}

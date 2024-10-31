@@ -1,0 +1,22 @@
+CHANGELOG
+
+# 12/02/2012 - First release
+
+# 13/02/2012
+- Add languages files
+- Admin: Add category list
+
+# 11/12/2013
+- The Menu category is disabled if the category no contain the subcategories or the category is not selected
+- In admin panel you can select a empty option for category
+
+# 20/12/2013
+- Fixed problems loading the list of categories on the search form
+
+# 03/02/2014
+- Fixed problems loading locale
+- Add custom css in admin
+
+# 11/04/2016
+- Tested with Wp 4.4.2
+- Frontend code Optimized
